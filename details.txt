@@ -1,0 +1,30 @@
+			First Name: Mohammad 
+			Last Name: Rasen 
+			Gender: M 
+			Age: 21 
+			Address: Moghbazar 
+			Phone: 1630406235 
+			Problem: Pain 
+			Doctor: Anisul
+
+
+			First Name: Mahbub 
+			Last Name: Alam 
+			Gender: M 
+			Age: 26 
+			Address: Khilgao 
+			Phone: 1234567890 
+			Problem: Heart 
+			Doctor: Rahibul
+
+
+			First Name: Arif 
+			Last Name: Sadi 
+			Gender: F 
+			Age: 22 
+			Address: Puran 
+			Phone: 1234567892 
+			Problem: Back 
+			Doctor: Anas
+
+
